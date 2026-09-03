@@ -40,31 +40,3 @@
 ## About Me
 
 I'm a Front-end Developer focused on building responsive, functional, and well-structured web experiences. I enjoy turning ideas into practical projects while continuously improving my skills in modern web development.
-
-## Featured Projects
-
-<!-- When the portfolio is published, make each project name point to its corresponding case study. -->
-
-**Cantinho do Açaí**
-
-Açaí delivery platform with catalog, ordering flow, and administrative management.
-
-`React` `TypeScript` `Vite` `Fastify` `PostgreSQL` `Drizzle ORM`
-
-**ArenaX**
-
-Platform for creating, managing, and following amateur championships.
-
-`React` `TypeScript` `Node.js` `Fastify` `PostgreSQL` `Drizzle ORM`
-
-**Marcaí**
-
-Scheduling, quotations, and business management for independent professionals.
-
-`React` `JavaScript` `Vite` `Supabase` `PostgreSQL`
-
-**Gym Tracker**
-
-Training planner and physical-progress tracker.
-
-`React` `JavaScript` `Vite` `Firebase` `Recharts`
