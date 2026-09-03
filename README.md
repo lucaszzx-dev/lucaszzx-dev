@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Lucas França 👋
+# Hey, I'm Lucas França
 
 ### Front-end Developer
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 </div>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -37,11 +37,11 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Front-end Developer focused on building responsive, functional, and well-structured web experiences. I enjoy turning ideas into practical projects while continuously improving my skills in modern web development.
 
-## 💻 Featured Projects
+## Featured Projects
 
 <!-- When the portfolio is published, make each project name point to its corresponding case study. -->
 
