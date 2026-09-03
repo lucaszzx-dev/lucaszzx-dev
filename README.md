@@ -1,55 +1,56 @@
-# Lucas França
+<div align="center">
 
-Desenvolvedor Full Stack focado na construção de aplicações web com React, TypeScript, Node.js e PostgreSQL.
+# Hey, I'm Lucas França 👋
 
-## Sobre mim
+### Front-end Developer
 
-Desenvolvo aplicações web de ponta a ponta, trabalhando com interfaces, APIs, bancos de dados e regras de negócio. Meus projetos atuais exploram soluções para delivery, gestão de campeonatos, organização de negócios e acompanhamento de treinos.
+Building modern, responsive, and functional web experiences.
 
-Localização: São Paulo, Brasil.
+[LinkedIn](https://www.linkedin.com/in/lucas-fran%C3%A7a-171140429/) · [Instagram](https://www.instagram.com/lucaszzx.dev/) · [Email](mailto:lucaszzx.dev@gmail.com)
 
-## Tecnologias principais
+<!-- When the portfolio is deployed, add its URL here as the primary CTA in this section. -->
 
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- PostgreSQL
+</div>
 
-### Também utilizadas em projetos
+## Tech Stack
 
-- Vite
-- Fastify
-- Drizzle ORM
-- Supabase
-- Firebase
+**Front-end focus**
 
-## Projetos em destaque
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/C5F74F" height="38" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/C5F74F" height="38" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/C5F74F" height="38" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/C5F74F" height="38" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/html5/C5F74F" height="38" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/C5F74F" height="38" alt="CSS3" />
+</p>
 
-### [Cantinho do Açaí](https://github.com/lucaszzx-dev/cantinho-do-acai)
+**Also working with**
 
-Plataforma full stack de delivery para açaí com catálogo, pedidos e área administrativa.
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/C5F74F" height="25" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/postgresql/C5F74F" height="25" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/vite/C5F74F" height="25" alt="Vite" />
+  <img src="https://cdn.simpleicons.org/fastify/C5F74F" height="25" alt="Fastify" />
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="25" alt="Drizzle ORM" />
+  <img src="https://cdn.simpleicons.org/supabase/C5F74F" height="25" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/firebase/C5F74F" height="25" alt="Firebase" />
+</p>
 
-**Stack:** React, TypeScript, Vite, Fastify, PostgreSQL e Drizzle ORM.
+## GitHub Stats
 
-### [ArenaX](https://github.com/lucaszzx-dev/ArenaX)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaszzx-dev&show_icons=true&bg_color=111111&title_color=C5F74F&text_color=F5F5F0&icon_color=C5F74F&border_color=2A2A2A&border_radius=6" alt="Lucas França's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszzx-dev&layout=compact&bg_color=111111&title_color=C5F74F&text_color=F5F5F0&border_color=2A2A2A&border_radius=6&custom_title=Most%20Used%20Languages" alt="Most used languages" />
+</p>
 
-Plataforma full stack para criar, gerenciar e acompanhar campeonatos amadores.
+## Featured Projects
 
-**Stack:** React, TypeScript, Node.js, Fastify, PostgreSQL e Drizzle ORM.
+<!-- When the portfolio is published, make each project name point to its corresponding case study. -->
 
-### [Marcaí](https://github.com/lucaszzx-dev/marcai)
-
-Plataforma de agenda, orçamentos e gestão para profissionais autônomos.
-
-**Stack:** React, JavaScript, Vite, Supabase e PostgreSQL.
-
-### [Rastreador de Academia](https://github.com/lucaszzx-dev/gym-tracker)
-
-Aplicação para organizar treinos e acompanhar evolução física.
-
-**Stack:** React, JavaScript, Vite, Firebase e Recharts.
-
-## Contato
-
-LinkedIn e portfólio serão adicionados em breve.
+| Project | Overview | Main stack |
+| --- | --- | --- |
+| **Cantinho do Açaí** | Açaí delivery platform with catalog, orders, and an admin area. | React, TypeScript, Fastify, PostgreSQL, Drizzle ORM |
+| **ArenaX** | Platform for creating, managing, and following amateur championships. | React, TypeScript, Node.js, Fastify, PostgreSQL |
+| **Marcaí** | Scheduling, quotations, and business management for independent professionals. | React, JavaScript, Supabase, PostgreSQL |
+| **Gym Tracker** | Training planner and physical-progress tracker. | React, JavaScript, Firebase, Recharts |
