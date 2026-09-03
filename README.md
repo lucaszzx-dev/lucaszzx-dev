@@ -12,45 +12,61 @@ Building modern, responsive, and functional web experiences.
 
 </div>
 
-## Tech Stack
+<div align="center">
 
-**Front-end focus**
-
-<p>
-  <img src="https://cdn.simpleicons.org/javascript/C5F74F" height="38" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/C5F74F" height="38" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/react/C5F74F" height="38" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/C5F74F" height="38" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/html5/C5F74F" height="38" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/C5F74F" height="38" alt="CSS3" />
-</p>
-
-**Also working with**
+<h2>Tech Stack</h2>
 
 <p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/C5F74F" height="25" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/postgresql/C5F74F" height="25" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/vite/C5F74F" height="25" alt="Vite" />
-  <img src="https://cdn.simpleicons.org/fastify/C5F74F" height="25" alt="Fastify" />
-  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="25" alt="Drizzle ORM" />
-  <img src="https://cdn.simpleicons.org/supabase/C5F74F" height="25" alt="Supabase" />
-  <img src="https://cdn.simpleicons.org/firebase/C5F74F" height="25" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="38" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="38" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="38" alt="React" title="React" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="38" alt="Next.js" title="Next.js" />
+  </picture>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="38" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="38" alt="CSS3" title="CSS3" />
 </p>
-
-## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaszzx-dev&show_icons=true&bg_color=111111&title_color=C5F74F&text_color=F5F5F0&icon_color=C5F74F&border_color=2A2A2A&border_radius=6" alt="Lucas França's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszzx-dev&layout=compact&bg_color=111111&title_color=C5F74F&text_color=F5F5F0&border_color=2A2A2A&border_radius=6&custom_title=Most%20Used%20Languages" alt="Most used languages" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="36" alt="Vite" title="Vite" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/fastify/000000" height="36" alt="Fastify" title="Fastify" />
+  </picture>
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="36" alt="Drizzle ORM" title="Drizzle ORM" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="36" alt="Supabase" title="Supabase" />
+  <img src="https://cdn.simpleicons.org/firebase/DD2C00" height="36" alt="Firebase" title="Firebase" />
 </p>
 
-## Featured Projects
+</div>
+
+## 💻 Featured Projects
 
 <!-- When the portfolio is published, make each project name point to its corresponding case study. -->
 
-| Project | Overview | Main stack |
-| --- | --- | --- |
-| **Cantinho do Açaí** | Açaí delivery platform with catalog, orders, and an admin area. | React, TypeScript, Fastify, PostgreSQL, Drizzle ORM |
-| **ArenaX** | Platform for creating, managing, and following amateur championships. | React, TypeScript, Node.js, Fastify, PostgreSQL |
-| **Marcaí** | Scheduling, quotations, and business management for independent professionals. | React, JavaScript, Supabase, PostgreSQL |
-| **Gym Tracker** | Training planner and physical-progress tracker. | React, JavaScript, Firebase, Recharts |
+**Cantinho do Açaí**
+
+Açaí delivery platform with catalog, ordering flow, and administrative management.
+
+`React` `TypeScript` `Fastify` `PostgreSQL` `Drizzle ORM`
+
+**ArenaX**
+
+Platform for creating, managing, and following amateur championships.
+
+`React` `TypeScript` `Node.js` `Fastify` `PostgreSQL`
+
+**Marcaí**
+
+Scheduling, quotations, and business management for independent professionals.
+
+`React` `JavaScript` `Supabase` `PostgreSQL`
+
+**Gym Tracker**
+
+Training planner and physical-progress tracker.
+
+`React` `JavaScript` `Firebase` `Recharts`
