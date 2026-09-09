@@ -4,7 +4,7 @@
 
 ### Front-end Developer
 
-<!-- When the portfolio is deployed, add its URL here as the primary CTA. -->
+[lucasdfranca.dev](https://lucasdfranca.dev)
 
 </div>
 
